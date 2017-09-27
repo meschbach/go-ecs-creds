@@ -1,2 +1,5 @@
 *.swo
 *.swp
+vendor/
+bin/
+go-ecs-creds
